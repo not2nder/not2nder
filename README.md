@@ -6,9 +6,8 @@
 </div>
 
 ## TECHNOLOGIES AND TOOLS
-<div display="flex">//div main
+<div display="flex">
   <div>
-    //div das imagens
     <div style="display:flex; flex-direction:row" >
       <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
       <img height="70em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
