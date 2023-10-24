@@ -7,5 +7,5 @@
 
 ## FERRAMENTAS
 <div align="center">
-  <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
