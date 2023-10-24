@@ -27,6 +27,6 @@
     </div>
   </div>
   <div>
-    <img size="10%" src="https://github.com/not2nder/not2nder/assets/130621173/961b1c23-c21d-4aca-81f5-811a42a67f22">
+    <img size="1%" src="https://github.com/not2nder/not2nder/assets/130621173/961b1c23-c21d-4aca-81f5-811a42a67f22">
   </div>
 </div>
