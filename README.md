@@ -6,7 +6,7 @@
 </div>
 
 ## TECHNOLOGIES AND TOOLS
-<div align="center" display="flex" flex-direction="row">
+<div justify-content="center" display="flex">
   <div>
     <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
