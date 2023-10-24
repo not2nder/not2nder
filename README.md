@@ -6,7 +6,7 @@
 </div>
 
 ## TECHNOLOGIES AND TOOLS
-<div style="display:flex;flex-direction:row">//div main
+<div display="flex">//div main
   <div>
     //div das imagens
     <div style="display:flex; flex-direction:row" >
