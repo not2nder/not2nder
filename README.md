@@ -14,5 +14,5 @@
     <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   </div>
-  ![knowledge](https://github.com/not2nder/not2nder/assets/130621173/4990f550-373e-4265-aa36-8fcc5bcd02ed)
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/130621173/277774370-4990f550-373e-4265-aa36-8fcc5bcd02ed.gif">
 </div>
