@@ -9,20 +9,20 @@
 <div display="flex">
   <div>
     <div style="display:flex; flex-direction:row" >
-      <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-      <img height="70em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      <img height="60em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     </div>
     <div style="display:flex; flex-direction:row" >
-      <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img height="70em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-      <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-      <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-      <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img height="60em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+      <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     </div>
     <div style="display:flex; flex-direction:row" >
-      <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-      <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+      <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+      <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     </div>
   </div>
   <div>
