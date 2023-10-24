@@ -6,9 +6,9 @@
 </div>
 
 ## TECHNOLOGIES AND TOOLS
-<div align="center">
+<div align="startr">
   <img height="180em" align="right" src="https://github.com/not2nder/not2nder/assets/130621173/961b1c23-c21d-4aca-81f5-811a42a67f22">
-  <div>
+  <div align-items="stretch">
     <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><br>
     <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
