@@ -6,7 +6,7 @@
 </div>
 
 ## TECHNOLOGIES AND TOOLS
-<div align="stretch">
+<div>
   <img height="180em" align="right" src="https://github.com/not2nder/not2nder/assets/130621173/961b1c23-c21d-4aca-81f5-811a42a67f22">
   <div>
     <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
