@@ -7,7 +7,7 @@
 
 ## TECHNOLOGIES AND TOOLS
 <div style="display:flex; flex-direction:row" >
-  <div>
+  <div style="size:50%">
     <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
